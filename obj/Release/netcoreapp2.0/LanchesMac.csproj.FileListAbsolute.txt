@@ -1,0 +1,14 @@
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/appsettings.Development.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/appsettings.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/bundleconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/Properties/launchSettings.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/LanchesMac.deps.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/LanchesMac.runtimeconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Release/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Release/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Release/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Release/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Release/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Release/netcoreapp2.0/LanchesMac.pdb

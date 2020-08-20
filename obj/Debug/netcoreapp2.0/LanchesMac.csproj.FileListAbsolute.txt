@@ -1,0 +1,138 @@
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csproj.CoreCompileInputs.cache
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+c:/_aspcoremvc/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+c:/_aspcoremvc/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+c:/_aspcoremvc/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+c:/_aspcoremvc/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.dll
+c:/_aspcoremvc/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.dll
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+c:/_aspcoremvc/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csprojResolveAssemblyReference.cache
+C:/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+C:/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+C:/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+C:/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.dll
+C:/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csproj.CoreCompileInputs.cache
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.dll
+C:/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/appsettings.Development.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/appsettings.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/bundleconfig.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/appsettings.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/bundleconfig.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Documents/Arquitetura/LanchesMac/LanchesMac/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/bundleconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.dll
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/web.config
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.Development.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/bundleconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.deps.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.runtimeconfig.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/bootstrap/.bower.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation-unobtrusive/.bower.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation/.bower.json
+/mnt/c/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery/.bower.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/web.config
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.Development.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/bundleconfig.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.Development.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/bundleconfig.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.deps.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.runtimeconfig.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/bootstrap/.bower.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation-unobtrusive/.bower.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation/.bower.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery/.bower.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/emanu/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.dll
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+C:/Users/geral/Desktop/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csproj.CoreCompileInputs.cache
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/web.config
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/appsettings.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/bundleconfig.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.Development.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/appsettings.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/bundleconfig.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.deps.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/LanchesMac.runtimeconfig.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/bootstrap/.bower.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation-unobtrusive/.bower.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery-validation/.bower.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/dist/wwwroot/lib/jquery/.bower.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.deps.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.runtimeconfig.dev.json
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.dll
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/bin/Debug/netcoreapp2.0/LanchesMac.pdb
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csprojAssemblyReference.cache
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfoInputs.cache
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.AssemblyInfo.cs
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.csproj.CoreCompileInputs.cache
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.dll
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.pdb
+/home/emanuel/Documentos/c#/vendas-csharp/Codigo Fonte/obj/Debug/netcoreapp2.0/LanchesMac.genruntimeconfig.cache
